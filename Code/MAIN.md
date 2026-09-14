@@ -1,4 +1,4 @@
-# 🚀 Main Execution Guide (`lirp_lcc_3_phase.py`)
+# Main Execution Guide (`lirp_lcc_3_phase.py`)
 
 This document provides a step-by-step guide on how to configure and execute the core optimization script of the Decision Intelligence framework. Before running the script, you must configure your solver license, select your desired dataset, and adjust the hardware-specific memory settings.
 
