@@ -1,12 +1,3 @@
-Aqui está a proposta para o arquivo **`Main.md`**. 
-
-Este documento funciona como um **Guia de Configuração e Execução (Quick Start Guide)**, detalhando exatamente o que o usuário precisa alterar no código-fonte antes de apertar o botão "Run". Redigi o documento em **Inglês** para manter a coerência com o repositório internacional e o `README.md` criado anteriormente.
-
-Você pode copiar o código abaixo e salvá-lo como `Main.md` no seu repositório.
-
-***
-
-```markdown
 # 🚀 Main Execution Guide (`lirp_lcc_3_phase.py`)
 
 This document provides a step-by-step guide on how to configure and execute the core optimization script of the Decision Intelligence framework. Before running the script, you must configure your solver license, select your desired dataset, and adjust the hardware-specific memory settings.
