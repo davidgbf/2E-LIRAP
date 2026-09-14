@@ -1,4 +1,4 @@
-# Main Execution Guide (`lirp_lcc_3_phase.py`)
+# Main Execution Guide (`2E-LIRAP.ipynb`)
 
 This document provides a step-by-step guide on how to configure and execute the core optimization script of the Decision Intelligence framework. Before running the script, you must configure your solver license, select your desired dataset, and adjust the hardware-specific memory settings.
 
@@ -89,7 +89,7 @@ To facilitate debugging, the script features a `velocidade` (Speed) toggle insid
 Once the configurations are set, simply run the script via terminal or your IDE:
 
 ```bash
-python 2E-LIRAP.py
+python 2E-LIRAP.ipynb
 ```
 
 Upon completion, check the terminal for the analytical summary and the generated `.zip` file containing all routing maps, Excel breakdowns, and convergence plots!
