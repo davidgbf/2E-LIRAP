@@ -89,8 +89,7 @@ To facilitate debugging, the script features a `velocidade` (Speed) toggle insid
 Once the configurations are set, simply run the script via terminal or your IDE:
 
 ```bash
-python lirp_lcc_3_phase.py
+python 2E-LIRAP.py
 ```
 
 Upon completion, check the terminal for the analytical summary and the generated `.zip` file containing all routing maps, Excel breakdowns, and convergence plots!
-```
