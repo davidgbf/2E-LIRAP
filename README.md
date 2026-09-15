@@ -1,4 +1,4 @@
-# 2E-LIRAP
+# 2E-LIRP
 
 # Decision Intelligence for Resilient Reverse Logistics
 
@@ -7,8 +7,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > **Official repository** for the code, datasets, and supplementary materials associated with the manuscript:  
-> *"Decision Intelligence for Resilient Reverse Logistics: A Three-Phase Matheuristic Framework for the Two-Echelon Location-Inventory-Routing-Assignment Problem (MP-HF-SD-2E-LIRAP)"*  
-> Submitted to **Transportation Research Part C: Emerging Technologies** (Special Issue: Boosting Efficiency, Sustainability and Resilience of Logistics Systems: Decision Intelligence with AI and OR).
+> *"A Three-Phase Matheuristic Framework for the Two-Echelon Location-Inventory-Routing Problem: a Reverse Logistics Application in a state of Brazil"*  
+> Submitted to **Transportation Research Part C: Emerging Technologies**
 
 ---
 
