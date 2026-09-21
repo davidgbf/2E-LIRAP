@@ -25,3 +25,6 @@ This repository provides an end-to-end **Decision Intelligence Pipeline** that s
    * *Phase 3:* Operational Assignment MILP (exact physical vehicle scheduling, deadheading tracking, and equitable workload distribution).
 4. **Proxy Border Hub Mechanism:** Algorithmic resolution for unserved micro-regions using an exact $139 \times 139$ over-the-road distance matrix.
 5. **GHG Emissions Tracking:** Environmental productivity calculator adopting the **GLEC Framework / ISO 14083** and **CMEM** protocols to measure loaded vs. deadheading carbon footprints.
+
+Current facilities in Tocantins, Brazil (Campo Limpo System):
+<img width="3231" height="4361" alt="Tocantins Inpev" src="https://github.com/user-attachments/assets/f95c5d6c-1664-41c1-91d4-ca78e92d7592" />
