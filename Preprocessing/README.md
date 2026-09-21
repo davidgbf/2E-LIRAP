@@ -74,6 +74,3 @@ Upon completion, the script will provide:
 * **Activation Function:** Hyperbolic Tangent (`tanh`)
 * **Optimizer:** `lbfgs` (Quasi-Newton method), highly recommended for small datasets.
 * **Regularization (Alpha):** 0.01 (Applies L2 penalty to mitigate overfitting on short historical series).
-
-### 💡 GitHub Tip:
-I highly recommend naming this file **`README.md`** instead of `Main.md` in your repository. GitHub automatically recognizes the `README.md` file and displays its content beautifully formatted at the bottom of your repository's homepage, acting as the main landing page for anyone visiting your project.
